@@ -13,5 +13,5 @@ Each sample consists of **188 time-series features**, representing ECG waveform 
 ## 🛠️ Installation & Setup  
 ### 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/Sainy-Mishra/Heartbeat-Detection-Classifier.git
-cd heartbeat-classification
+git clone https://github.com/Sainy-Mishra/Heartbeat_Detection_Classifier.git
+cd Heartbeat_Detection_Classifier
